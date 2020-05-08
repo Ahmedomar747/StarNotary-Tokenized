@@ -21,7 +21,7 @@ ERC-721 Token Name: Star
 ERC-721 Token Symbol: STR
 
 ## Contract Address
-Contract Address on the rinkeby network: 0x48037D2e0Fce3837dA19345c56ee5aCc0d69C486
+Contract Address on the rinkeby network: 0xACcaD9dc96a24794aC804DABB6EB37098BD416a8
 
 ## Running the app
 
