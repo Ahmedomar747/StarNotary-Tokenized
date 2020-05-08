@@ -8,7 +8,7 @@ contract StarNotary is ERC721 {
 
     // Star data
     struct Star {
-        string name;       
+        string name;    
     }
 
     // Implement Task 1 Add a name and symbol properties
